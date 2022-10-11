@@ -1,5 +1,7 @@
-let name = prompt('What is your name?', "");
-
 function showMessage() {
+    let name = prompt('What is your name?', "");
+    
     alert(`Hello ${name} !`);
 }
+
+showMessage();
