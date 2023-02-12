@@ -1,2 +1,1 @@
-# hello
-week13 task1
+Responsive Create account page. From FIGMA to HTML CSS JS with one breakpoint only. In this tutorial i`ll show you how to create responsive create account page with HTML CSS JS only. Code Only - Free HTML CSS JS tutorials for beginners
