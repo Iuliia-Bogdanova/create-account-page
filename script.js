@@ -1,13 +1,6 @@
-/*function showMessage() {
-    let name = prompt('What is your name?', "");
-    
-    alert(`Hello ${name} !`);
-}*/
+"use strict"
 
-let showMessage = () => {
-    let name = prompt('What is your name?', "");
-   
-    alert(`Hello ${name} !`);
-}
-
-//console.log(`Hello ${name} !`);
+// add class when page loaded
+window.addEventListener("load", () => {
+    document.documentElement.classList.add('loaded');
+})
