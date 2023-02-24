@@ -33,7 +33,7 @@ body {
     top: 0;
     left: 0;
     content: "";
-    background: url('./IMAGEN.jpg') center / cover no-repeat;
+    background: url('./images/IMAGEN.jpg') center / cover no-repeat;
 }
 
 .account__left-side,
@@ -76,7 +76,7 @@ body {
     line-height: 1.35;
     color: #1d1d1b;
     padding-left: 2rem;
-    background: url("./logo.svg") left / 1.5rem no-repeat;
+    background: url("./images/logo.svg") left / 1.5rem no-repeat;
 }
 
 .form__title {
@@ -169,7 +169,7 @@ body {
 
 .form__google span {
     text-align: left;
-    background: url("./google.svg") left / 1.5rem no-repeat;
+    background: url("./images/google.svg") left / 1.5rem no-repeat;
     padding-left: 2.5rem;
     line-height: 1.3;
 }
@@ -264,4 +264,3 @@ body {
         width: 0;
     }
 }
-
