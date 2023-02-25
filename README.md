@@ -53,6 +53,4 @@
 <img src="./assets/images/promo_desktop.gif" alt="Desktop registration form">
 <img src="./assets/images/promo_mobile.gif" alt="Mobile registration form">
 
-<h4 align="center">Relax and enjoy!</h4>
-
 This site is live at  https://iuliia-bogdanova.github.io/create-account-page/
