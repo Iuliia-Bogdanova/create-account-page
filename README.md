@@ -48,7 +48,7 @@
     </tbody>
 </table>
 
-<h3>In this project - Responsive Create account page, from FIGMA to HTML CSS JS with one breakpoint only</h3>
+<h3>In this project - Responsive Create account page, from FIGMA to HTML CSS JS with one breakpoint</h3>
 <h4>Thanks to Evgeny Andrikanich</h4>
 <img src="./assets/images/promo_desktop.gif" alt="Desktop registration form">
 <img src="./assets/images/promo_mobile.gif" alt="Mobile registration form">
